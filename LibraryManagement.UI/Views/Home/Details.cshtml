@@ -1,0 +1,15 @@
+﻿@model Models.Book
+
+<h2>Book Details</h2>
+
+<div>
+    <strong>Title:</strong> @Model.Title
+</div>
+<div>
+    <strong>Author:</strong> @Model.Author
+</div>
+<div>
+    <strong>ISBN:</strong> @Model.ISBN
+</div>
+
+<a asp-controller="Books" asp-action="Index">Back to List</a>

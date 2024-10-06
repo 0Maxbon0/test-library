@@ -1,0 +1,12 @@
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\bin\Debug\net8.0\Models.deps.json
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\bin\Debug\net8.0\Models.dll
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\bin\Debug\net8.0\Models.pdb
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.dll
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\refint\Models.dll
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.pdb
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\ref\Models.dll
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache

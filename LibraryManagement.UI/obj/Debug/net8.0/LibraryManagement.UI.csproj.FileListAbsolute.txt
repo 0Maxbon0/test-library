@@ -1,0 +1,8 @@
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.csproj.AssemblyReference.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.AssemblyInfoInputs.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.AssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.csproj.CoreCompileInputs.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.RazorAssemblyInfo.cache
+D:\Docs\Maxim Docs\.Net\project\LibraryManagement.UI\LibraryManagement.UI\obj\Debug\net8.0\LibraryManagement.UI.RazorAssemblyInfo.cs

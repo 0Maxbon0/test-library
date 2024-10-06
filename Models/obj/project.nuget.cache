@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jb4VhBIlEl4=",
+  "success": true,
+  "projectFilePath": "D:\\Docs\\Maxim Docs\\.Net\\project\\LibraryManagement.UI\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.1.1\\microsoft.identitymodel.abstractions.8.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identitymodel.logging\\8.1.1\\microsoft.identitymodel.logging.8.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
